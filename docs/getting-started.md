@@ -52,4 +52,4 @@ Try these to get a feel for the editing experience:
 
 ## If Something Goes Wrong
 
-Don't worry — this is a sandbox. Nothing you do here affects the production site. If anything looks broken or confusing, contact Sai at boddupops@gmail.com. The sandbox can be fully reset at any time.
+Don't worry — this is a sandbox. Nothing you do here affects the production site. If anything looks broken or confusing, contact Sai at consulting@saicloud.org. The sandbox can be fully reset at any time.

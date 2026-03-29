@@ -73,7 +73,7 @@ Try a hard refresh (Ctrl+Shift+R or Cmd+Shift+R). If the issue persists, contact
 
 ### I'm locked out of the admin panel
 
-Contact Sai at boddupops@gmail.com to reset your credentials.
+Contact Sai at consulting@saicloud.org to reset your credentials.
 
 ### I want to try something but I'm worried about breaking things
 
@@ -83,4 +83,4 @@ Go for it. This is a sandbox — it exists for you to experiment. The worst that
 
 ## Contact
 
-For any questions, issues, or feedback: **Sai — boddupops@gmail.com**
+For any questions, issues, or feedback: **Sai — consulting@saicloud.org**

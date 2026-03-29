@@ -3,7 +3,7 @@
 ## Accessing the Sandbox
 
 1. Go to **https://sandbox.saicloud.org**
-2. You'll be prompted to log in through our authentication gate — use the email address that was set up for you
+2. You'll be prompted to log in through the authentication gate — use the email address that was set up for you
 3. After authenticating, you'll see the TBC website
 
 ## Logging into the Admin Panel
